@@ -1,0 +1,3 @@
+apple = "Nagano"
+
+if apple
